@@ -7,7 +7,7 @@
 
 <br/>
 <p align="center">
-  I have experience making MERN stack application developement and I am a recent Carleton University/EDx Bootcamp Graduate. 
+  I have experience in MERN stack application developement 🤓 and I am a recent Carleton University/EDx Bootcamp Graduate. 
 </p>
    
 <br />
